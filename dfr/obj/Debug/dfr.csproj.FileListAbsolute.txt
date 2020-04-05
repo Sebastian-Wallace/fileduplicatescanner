@@ -1,0 +1,7 @@
+C:\Users\user\Documents\dfr\dfr\bin\Debug\dfr.exe.config
+C:\Users\user\Documents\dfr\dfr\bin\Debug\dfr.exe
+C:\Users\user\Documents\dfr\dfr\bin\Debug\dfr.pdb
+C:\Users\user\Documents\dfr\dfr\obj\Debug\dfr.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\dfr\dfr\obj\Debug\dfr.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dfr\dfr\obj\Debug\dfr.exe
+C:\Users\user\Documents\dfr\dfr\obj\Debug\dfr.pdb
